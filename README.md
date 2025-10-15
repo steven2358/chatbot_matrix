@@ -18,7 +18,7 @@ The almighty chatbot comparison grid.
 | Agents with actions 🤖 | "Task Operator" ✅ | "Computer use" ✅ | "Gemini Live" ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | "Assistant" ✅<br>(on mobile app 📱) | Yes ✅ | No ❌ |
 | Code interpreter 💻 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ |
 | Personalization, memory 🧠 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | No ❌ |
-| Data governance and regolatory compliance 🔒 | ⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐/5 | ⭐⭐/5 | ⭐⭐⭐/5 | ⭐⭐⭐/5 | ⭐/5 | ⭐/5 |
+| Data governance and regulatory compliance 🔒 | ⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐/5 | ⭐⭐/5 | ⭐⭐⭐/5 | ⭐⭐⭐/5 | ⭐/5 | ⭐/5 |
 | Mobile app | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ |
 
 Links: [chatgpt.com](https://chatgpt.com/) / [claude.ai](https://claude.ai/) / [gemini.google.com](https://gemini.google.com/) / [chat.mistral.ai](https://chat.mistral.ai/) / [copilot.microsoft.com](https://copilot.microsoft.com/) / [meta.ai](https://www.meta.ai) / [grok.com](https://grok.com) / [perplexity.ai](https://www.perplexity.ai/) / [deepseek.com](https://www.deepseek.com/) / [chat.qwenlm.ai](https://chat.qwenlm.ai/)
