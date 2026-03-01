@@ -12,7 +12,6 @@ VALUE_MAP = {
     "paid": "Paid \U0001f4b0",
     "free": "Free \u2705",
     "paid_tier": "Paid \u2705",
-    "paid/free": "Paid \U0001f4b0 / Free \u2705",
     "multimodal": "Multimodal \u2705",
     "voice": "Voice only \u2705",
 }
