@@ -11,11 +11,11 @@ Chatbot comparison grid.
 | Reasoning 🧠 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ |
 | Web search with source citation 🔍 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ |
 | Image generation 🎨 | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | No ❌ | Yes ✅ |
-| Analysis of images / documents 🖼️ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Paid 💰 | No/ Yes ✅ | Yes ✅ |
+| Analysis of images / documents 🖼️ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Paid 💰 | Yes ✅ | Yes ✅ |
 | Live mode 🎤 | Multimodal ✅ | Multimodal ✅ | Voice only ✅ | No ❌ | Voice only ✅ | Yes ✅ | Yes ✅ | No ❌ | No ❌ | No ❌ |
 | Online "canvas" edition 🖊️ | Paid ✅ | Paid ✅ | No ❌ | Yes ✅ | No ❌ | No ❌ | No ❌ | No ❌ | No ❌ | No ❌ |
 | Personalized assistants 📠 | Paid 💰 | Paid 💰 | Paid 💰 | Yes ✅ | No ❌ | Yes ✅ | Paid 💰 | No ❌ | No ❌ | No ❌ |
-| Agents with actions 🤖 | "Task Operator" ✅ | "Computer use" ✅ | "Gemini Live" ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | "Assistant" ✅<br>(on mobile app 📱) | Yes ✅ | No ❌ |
+| Agents with actions 🤖 | "Task Operator" ✅ | "Computer use" ✅ | "Gemini Live" ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | "Assistant" (on mobile app) ✅ | Yes ✅ | No ❌ |
 | Code interpreter 💻 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ |
 | Personalization, memory 🧠 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | No ❌ |
 | Data governance and regulatory compliance 🔒 | ⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐/5 | ⭐⭐/5 | ⭐⭐⭐/5 | ⭐⭐⭐/5 | ⭐/5 | ⭐/5 |
