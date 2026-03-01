@@ -10,16 +10,16 @@ Chatbot comparison grid.
 | Context window (tokens) 📏 | 400 K | 1 M | 1 M (Advanced) | 256 K | 400 K | 10 M (Scout) | 2 M | 200 K (Pro) | 1 M | 1 M |
 | Reasoning 🧠 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ |
 | Web search with source citation 🔍 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ |
-| Image generation 🎨 | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | No ❌ | Yes ✅ |
-| Analysis of images / documents 🖼️ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Paid 💰 | Yes ✅ | Yes ✅ |
+| Image generation 🎨 | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | Yes ✅ |
+| Analysis of images / documents 🖼️ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ |
 | Live mode 🎤 | Multimodal ✅ | Multimodal ✅ | Voice only ✅ | No ❌ | Voice only ✅ | Yes ✅ | Yes ✅ | No ❌ | No ❌ | No ❌ |
 | Online "canvas" edition 🖊️ | Paid ✅ | Paid ✅ | No ❌ | Yes ✅ | No ❌ | No ❌ | No ❌ | No ❌ | No ❌ | No ❌ |
-| Personalized assistants 📠 | Paid 💰 | Paid 💰 | Paid 💰 | Yes ✅ | No ❌ | Yes ✅ | Paid 💰 | No ❌ | No ❌ | No ❌ |
+| Personalized assistants 📠 | GPTs 💰 | Paid 💰 | Gems ✅ | Agents ✅ | Agents 💰 | AI Studio ✅ | No ❌ | Spaces 💰 | No ❌ | No ❌ |
 | Agents with actions 🤖 | "Task Operator" ✅ | "Computer use" ✅ | "Gemini Live" ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | "Assistant" (on mobile app) ✅ | Yes ✅ | No ❌ |
 | Code interpreter 💻 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ |
 | Personalization, memory 🧠 | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ | No ❌ |
 | Data governance and regulatory compliance 🔒 | ⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐⭐/5 | ⭐⭐⭐/5 | ⭐⭐/5 | ⭐⭐⭐/5 | ⭐⭐⭐/5 | ⭐/5 | ⭐/5 |
-| Mobile app | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | No ❌ |
+| Mobile app | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ | Yes ✅ |
 
 Links: [chatgpt.com](https://chatgpt.com/) / [claude.ai](https://claude.ai/) / [gemini.google.com](https://gemini.google.com/) / [chat.mistral.ai](https://chat.mistral.ai/) / [copilot.microsoft.com](https://copilot.microsoft.com/) / [meta.ai](https://www.meta.ai) / [grok.com](https://grok.com) / [perplexity.ai](https://www.perplexity.ai/) / [deepseek.com](https://www.deepseek.com/) / [chat.qwenlm.ai](https://chat.qwenlm.ai/)
 

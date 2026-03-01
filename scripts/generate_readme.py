@@ -73,6 +73,7 @@ BADGE_MAP = {
     "yes":  "\u2705",
     "no":   "\u274c",
     "paid": "\U0001f4b0",
+    "free": "\u2705",
 }
 
 
