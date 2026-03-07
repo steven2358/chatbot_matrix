@@ -3,7 +3,7 @@ chatbots:
     name: "ChatGPT"
     url: "https://chatgpt.com"
     company: "OpenAI"
-    most_recent_models: "GPT-5.2 / GPT-5 mini"
+    most_recent_models: "GPT-5.4 / GPT-5.3"
     access_to_latest_models: "paid"
     context_window: "400 K"
     reasoning: "yes"
@@ -181,7 +181,7 @@ chatbots:
 
   - id: qwen
     name: "Qwen"
-    url: "https://chat.qwenlm.ai"
+    url: "https://chat.qwen.ai"
     company: "Alibaba"
     most_recent_models: "Qwen 3.5 / Qwen 3.5 Plus"
     access_to_latest_models: "free"
