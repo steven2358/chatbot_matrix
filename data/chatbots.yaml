@@ -60,10 +60,10 @@ chatbots:
     mobile_app: "yes"
 
   - id: mistral
-    name: "Mistral"
+    name: "Vibe"
     url: "https://chat.mistral.ai"
-    company: "Mistral"
-    most_recent_models: "Mistral Large 3 / Small 4"
+    company: "Mistral AI"
+    most_recent_models: "Mistral Medium 3.5 / Small 4"
     access_to_latest_models: "free"
     context_window: "256 K"
     reasoning: "yes"
@@ -72,8 +72,8 @@ chatbots:
     image_document_analysis: "yes"
     live_mode: "no"
     canvas_edition: "yes"
-    personalized_assistants: "Agents|yes"
-    agents_with_actions: "yes"
+    personalized_assistants: "Skills|free"
+    agents_with_actions: '"Vibe Work"|free'
     code_interpreter: "yes"
     personalization_memory: "yes"
     data_governance: 4
