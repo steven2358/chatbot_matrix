@@ -3,17 +3,17 @@ chatbots:
     name: "ChatGPT"
     url: "https://chatgpt.com"
     company: "OpenAI"
-    most_recent_models: "GPT-5.5 / GPT-5.3"
+    most_recent_models: "GPT-6 Astra / GPT-6 Sol"
     access_to_latest_models: "paid"
-    context_window: "1 M"
+    context_window: "1.05 M"
     reasoning: "yes"
     web_search: "yes"
     image_generation: "yes"
     image_document_analysis: "yes"
     live_mode: "multimodal"
-    canvas_edition: "paid_tier"
-    personalized_assistants: "GPTs|paid"
-    agents_with_actions: '"ChatGPT agent"|paid'
+    canvas_edition: "yes"
+    personalized_assistants: "Plugins|yes"
+    agents_with_actions: '"ChatGPT Work"|free'
     code_interpreter: "yes"
     personalization_memory: "yes"
     data_governance: 3
