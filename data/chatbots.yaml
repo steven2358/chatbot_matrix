@@ -43,17 +43,17 @@ chatbots:
     name: "Gemini"
     url: "https://gemini.google.com/"
     company: "Google"
-    most_recent_models: "Gemini 3.1 Pro / Flash"
+    most_recent_models: "Gemini 3.1 Pro / 3.8 Flash"
     access_to_latest_models: "paid"
-    context_window: "2 M (Pro)"
+    context_window: "1 M (Pro)"
     reasoning: "yes"
     web_search: "yes"
     image_generation: "yes"
     image_document_analysis: "yes"
     live_mode: "multimodal"
-    canvas_edition: "no"
+    canvas_edition: "yes"
     personalized_assistants: "Gems|free"
-    agents_with_actions: '"Gemini Agent"|paid'
+    agents_with_actions: '"Gemini Spark"|paid'
     code_interpreter: "yes"
     personalization_memory: "yes"
     data_governance: 4
