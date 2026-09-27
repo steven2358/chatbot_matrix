@@ -103,17 +103,17 @@ chatbots:
     name: "Meta AI"
     url: "https://www.meta.ai"
     company: "Meta"
-    most_recent_models: "Muse Spark / Llama 4 Maverick"
+    most_recent_models: "Muse Spark 1.1"
     access_to_latest_models: "free"
-    context_window: "1 M (Maverick)"
+    context_window: "1 M"
     reasoning: "yes"
     web_search: "yes"
     image_generation: "yes"
     image_document_analysis: "yes"
-    live_mode: "yes"
+    live_mode: "multimodal"
     canvas_edition: "no"
-    personalized_assistants: "AI Studio|yes"
-    agents_with_actions: '"Contemplating"|free'
+    personalized_assistants: "no"
+    agents_with_actions: '"Muse"|free'
     code_interpreter: "yes"
     personalization_memory: "yes"
     data_governance: 2
